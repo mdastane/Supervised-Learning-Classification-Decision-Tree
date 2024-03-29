@@ -1,4 +1,4 @@
-# Decision-Tree
+# Supervised Learning Classification Decision-Tree
 * Project completed as part of Great Learning's Postgraduate Program - Data Science and Business Analytics
 * Project delivered in January 2024
 * Repository includes two files:
