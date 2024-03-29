@@ -1,5 +1,5 @@
 # Supervised Learning Classification Decision-Tree
-* Project completed as part of Great Learning's Postgraduate Program - Data Science and Business Analytics
+* Project completed as part of Great Learning's Postgraduate Program - - Artificial Intelligence & Machine Learning
 * Project delivered in January 2024
 * Repository includes two files:
   * Jupyter notebook with Python code
